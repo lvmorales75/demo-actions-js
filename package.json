@@ -1,0 +1,27 @@
+{
+  "name": "demo-actions",
+  "version": "1.0.0",
+  "description": "Repository for a GitHub Actions Custom",
+  "keywords": [
+    "github",
+    "actios",
+    "marketplace",
+    "custom",
+    "javascript"
+  ],
+  "homepage": "https://github.com/lvmorales75/demo-actions-js#readme",
+  "bugs": {
+    "url": "https://github.com/lvmorales75/demo-actions-js/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lvmorales75/demo-actions-js.git"
+  },
+  "license": "MIT",
+  "author": "Laura V. Morales",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test.js"
+  }
+}
