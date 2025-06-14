@@ -1,5 +1,5 @@
 name: 'GH Action - JS Custom Action C05.02'
-description: 'Greet someone and record the time'
+description: 'This is a custom GitHub Action written in JavaScript for C05.02. Great someone and record the time.'
 inputs:
   who-to-greet:  # id of input
     description: 'Who to greet'
@@ -11,3 +11,6 @@ outputs:
 runs:
   using: 'node20'
   main: 'index.js'
+branding:
+  icon: 'message-square'
+  color: 'blue'
